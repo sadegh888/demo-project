@@ -4,3 +4,4 @@ add intro text
 update intro
 add details
 fix errors
+improve layout
